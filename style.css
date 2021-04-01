@@ -8,15 +8,6 @@ body {
         overflow-x: hidden;
       }
 
-      /*#ldn {
-        position: absolute;
-        width: 65%;
-        left: 35vw;
-        top: 5%;
-        z-index: auto;
-      }
-      */
-
       #type {
         width: 52%;
         left: 40vw;
@@ -127,9 +118,9 @@ font-style: normal;
       }
 
       #pics {
+        display: inline-block;
         position: absolute;
         z-index: -1;
-        display: inline-block;
         top: 215vh;
         left: 55vw;
       }
