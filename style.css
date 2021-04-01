@@ -129,16 +129,8 @@ font-style: normal;
       #pics {
         position: absolute;
         z-index: -1;
-        display: inline-flex;
-        top: 217vh;
-        left: 55vw;
-      }
-
-      #pics2 {
-        position: absolute;
-        z-index: -1;
-        display: inline-flex;
-        top: 230vh;
+        display: inline-block;
+        top: 215vh;
         left: 55vw;
       }
 
